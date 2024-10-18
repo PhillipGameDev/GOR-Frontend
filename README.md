@@ -4,8 +4,8 @@ You can build your kingdom, form alliances, and send your troops to attack enemi
 URL: https://play.google.com/store/apps/details?id=com.gamelegendsestab.gameofrevenge&pcampaignid=web_share
 
 # Screenshots
-![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/1.webp)
-![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/2.webp)
-![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/3.webp)
-![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/4.webp)
-![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/5.webp)
+![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/1.png)
+![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/2.png)
+![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/3.png)
+![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/4.png)
+![image](https://github.com/kowalewskiadrian/GOR-Frontend/blob/main/Assets/Board/5.png)
